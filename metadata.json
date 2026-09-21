@@ -1,0 +1,6 @@
+{
+  "name": "حملة توظيف مسوّقات رقميات - الإسكندرية وكفر الدوار",
+  "description": "منصة احترافية لتصميم ونشر إعلان وظيفة التسويق الإلكتروني عبر وسائل التواصل الاجتماعي واختبار المتقدمات وتقييم الكومنتات الذكية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
